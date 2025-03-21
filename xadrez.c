@@ -49,11 +49,23 @@ printf("\n");
         } while (rainha <= 8);
         printf("\n");
     
-        return 0;
+        
+        printf("movimento cavalo\n");
+
+        printf("\n");
+    
+        int cavalo1, cavalo2;
+    
+        for (cavalo1 = 1; cavalo1 <= 2 ; cavalo1++)
+        printf("cima\n");
+    
+        for (cavalo2 = 2; cavalo2 == 2; cavalo2++)
+        {
+         printf("esquerda\n");   
+        }
 
 
-
-
+ return 0;
 
 
 }
